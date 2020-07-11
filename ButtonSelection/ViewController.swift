@@ -49,7 +49,7 @@ class ViewController: UIViewController {
         
     }
     
-    @IBAction func ssss(_ sender: UIButton) {
+    @IBAction func actionButton(_ sender: UIButton) {
         setButton(button: sender)
     }
     
