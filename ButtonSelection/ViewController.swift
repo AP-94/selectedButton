@@ -55,6 +55,7 @@ class ViewController: UIViewController {
     
     @IBAction func nextActionButton(_ sender: UIButton) {
         if counter == 4 {
+            sportArray.removeAll()
             fillSportsArray()
             showSimpleAlert(title: "Has seleccionado satisfactoriamente 4 opciones:", message: "\(sportArray[0]) - \(sportArray[1]) - \(sportArray[2]) - \(sportArray[3]) ")
         } else {
