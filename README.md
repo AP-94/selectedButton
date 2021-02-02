@@ -27,9 +27,3 @@ visualmente puede ver que botones ha seleccionado. Así mismo, puede seleccionar
 puede avanzar pulsando el botón de "siguiente", si tiene los 4 botones seleccionado la app navegaría "en el caso de una aplicación real" a la siguiente vista,
 en nuestro caso desplegara un alert con el listado de los botones seleccionados, de otra forma, si no hay 4 seleccionados,
 la app desplegara un alert comentando al usuario que para avanzar necesita seleccionar 4 botones.
-
-
-## Geeks4Tech
-
-Para ver más y saber más sobre este tipo de código, tutoriales y guías, en el blog de www.geeks4tech.com te esperamos.
-
